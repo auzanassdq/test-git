@@ -10,6 +10,8 @@ while i >= 0
 
 
 
+
+
 if s == x 
   ini palindrome
 else 
